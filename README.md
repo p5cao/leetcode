@@ -1,3 +1,5 @@
 # leetcode
-learn the fundamentals of coding\n
+learn the fundamentals of coding
+
+
 start here, have fun!
